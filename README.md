@@ -6,4 +6,4 @@ The dataset contains cases from a study that was conducted between 1958 and 1970
 * Analysing some useful statistics from data
 
 ## Structure of Repo-
-There is only one .ipynb notebook and its pdf form
+There is one folder named EDA which contains .ipynb notebook and its pdf form
